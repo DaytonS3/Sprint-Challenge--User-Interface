@@ -176,14 +176,13 @@ header nav a:hover {
     width: 800px;
     margin: auto;
     text-align: center;
-    transition: all 4s ease-in-out;
+    transition: all 1s ease-in-out;
     margin-bottom: 20px;
     border-radius: 50px;
 }
 
 
 .form-control {
-    width 600px;
     background: transparent;
     border: none;
     outline: none;
