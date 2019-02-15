@@ -54,6 +54,11 @@ table {
 
 /* header */
 
+.about-page{
+    max-width: 900px;
+    margin: auto;
+}
+
 header {
     display: flex;
     align-items: center;
@@ -96,7 +101,7 @@ header nav a:hover {
 }
 
 hr {
-    width: 90%;
+    width: 800px;
 }
 
 
