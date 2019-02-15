@@ -144,3 +144,30 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.container {
+    max-width: 1000px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 25px;
+    justify-content: center;
+}
+
+header nav a {
+    padding: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+header nav a:hover {
+    color: darkgray;
+}
+
+.home-image {
+   text-align: center;
+   margin: 50px;
+}
