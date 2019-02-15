@@ -51,3 +51,50 @@ table {
     box-sizing: border-box;
 }
 
+
+/* header */
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 25px;
+    justify-content: center;
+}
+
+header nav{
+    margin-left: 50px;
+}
+
+header nav a {
+    padding: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+header nav a:hover {
+    color: darkgray;
+}
+
+.about-image {
+    text-align: center;
+}
+
+.about-section {
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.about-section h2 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.about-section p {
+    font-size: 17px;
+    line-height: 1.2
+}
+
+hr {
+    width: 90%;
+}

@@ -145,18 +145,18 @@ footer nav a {
     text-decoration: none;
 }
 
-.container {
-    max-width: 1000px;
-}
-
 /* Header / Nav */
 
 header {
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin: 25px;
     justify-content: center;
+}
+
+header nav{
+    margin-left: 90px;
 }
 
 header nav a {
