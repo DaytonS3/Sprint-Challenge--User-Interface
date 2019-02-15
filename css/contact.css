@@ -169,51 +169,24 @@ header nav a:hover {
     color: darkgray;
 }
 
-.home-image {
-   text-align: center;
-   margin: 50px;
+/* Contact form */
+
+.container-contact{
+    background: lightblue;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    transition: all 1s ease-in-out;
+    margin-bottom: 20px;
+    border-radius: 50px;
 }
 
 
-/* Coloring Boxes */
-#box1 {
-    background: teal;
-}
+.form-control {
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: red;
 
-#box2 {
-    background: gold;
 }
-
-#box3 {
-    background: cadetblue;
-}
-
-#box4 {
-    background: coral;
-}
-
-#box5 {
-    background: crimson;
-}
-
-#box6 {
-    background: forestgreen;
-}
-
-#box7 {
-    background: darkorchid;
-}
-
-#box8 {
-    background: hotpink;
-}
-
-#box9 {
-    background: indigo;
-}
-
-#box10 {
-    background: dodgerblue;
-}
-
-/* Finished Coloring Boxes */
