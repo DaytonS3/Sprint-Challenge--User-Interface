@@ -59,6 +59,12 @@ table {
     margin: auto;
 }
 
+.about-header {
+    border-bottom: 1px dotted black;
+    width: 800px;
+    margin: 0 auto;
+}
+
 header {
     display: flex;
     align-items: center;
@@ -107,11 +113,15 @@ hr {
 
 /* About Main Content */
 
-.about-content{
+.about-content {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     margin: 20px;
+}
+
+.about-content img {
+    width: 100%;
 }
 
 .about-section {
